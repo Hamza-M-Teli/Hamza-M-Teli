@@ -1,16 +1,35 @@
-### Hi there 👋
+Hi 👋 My name is Hamza Teli
+===========================
 
-<!--
-**Hamza-M-Teli/Hamza-M-Teli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Robotics, ML, DL and Computer Vision Engineer
+---------------------------------------------
 
-Here are some ideas to get you started:
+I am a multi-disciplinary prospect with an MSc in Computer Vision, Robotics and Machine Learning from the Centre of Vision, Speech and Signal Processing (CVSSP). This profile will serve as a historic archive containing my research and personal ROS-2, MATLAB and Python projects within the domain of AI systems, Robotics, Computer Vision, Machine Learning, and Deep Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in Greater London, United Kingdom
+* 🖥️  See my portfolio at [Github](http://github.com/Hamza-M-Teli)
+* 🧠  I'm learning to expand my practical skills in Tensor Flow and Pytorch.
+* 🤝  I'm open to collaborating on Projects
+* ⚡  I have a foundation in Mechanical, Aeronautical and Astronautical Engineering.
+
+### Skills
+
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/Hamza-M-Teli" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/HamzaMehmoodTeli" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Hamza-M-Teli"><img src="https://github-readme-stats.vercel.app/api?username=Hamza-M-Teli&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Hamza-M-Teli's GitHub stats" /></a>
+
+<a href="https://github.com/Hamza-M-Teli" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-M-Teli&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
